@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 import urllib.request
 
 ### Set search keyword and max number of images to crawl
-keyword = "꽃"
+keyword = "keyword"
 max = 10000
 
 ### Set path to save images
