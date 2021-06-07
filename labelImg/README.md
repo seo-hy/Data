@@ -5,7 +5,7 @@
 ### Execute 
     labelImg
   
-###Shortcuts
+### Shortcuts
 * w : Create a rect box
 * d : Next image
 * a : Previous image
